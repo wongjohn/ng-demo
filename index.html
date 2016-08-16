@@ -17,23 +17,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"/>
     <meta name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
-    <base href="/">
+    <base href="/ng-demo">
     <!-- 先简单地把font-awesome添加进来 -->
-    <link rel="stylesheet" href="/vendors/font-awesome/css/font-awesome.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/font-awesome/css/font-awesome.css" />
     <!-- build:css styles/lib.css -->
     <!-- bower:css -->
-    <link rel="stylesheet" href="/vendors/bootstrap/dist/css/bootstrap.css" />
-    <link rel="stylesheet" href="/vendors/toastr/toastr.css" />
-    <link rel="stylesheet" href="/vendors/angular-ui-layout/src/ui-layout.css" />
-    <link rel="stylesheet" href="/vendors/animate.css/animate.css" />
-    <link rel="stylesheet" href="/vendors/Jcrop/css/Jcrop.css" />
-    <link rel="stylesheet" href="/vendors/angular-bootstrap-colorpicker/css/colorpicker.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/toastr/toastr.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/angular-ui-layout/src/ui-layout.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/animate.css/animate.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/Jcrop/css/Jcrop.css" />
+    <link rel="stylesheet" href="ng-demo/vendor/angular-bootstrap-colorpicker/css/colorpicker.css" />
     <!-- endbower -->
     <!-- endbuild -->
 
     <!-- build:css styles/app.css -->
     <!-- inject:css -->
-    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="stylesheet" href="ng-demo/styles/styles.css">
     <!-- endinject -->
     <!-- endbuild -->
 </head>
@@ -43,92 +43,92 @@
 
 <!-- build:js js/lib.js -->
 <!-- bower:js -->
-<script src="/vendors/jquery/dist/jquery.js"></script>
-<script src="/vendors/angular/angular.js"></script>
-<script src="/vendors/angular-sanitize/angular-sanitize.js"></script>
-<script src="/vendors/bootstrap/dist/js/bootstrap.js"></script>
-<script src="/vendors/extras.angular.plus/ngplus-overlay.js"></script>
-<script src="/vendors/moment/moment.js"></script>
-<script src="/vendors/angular-ui-router/release/angular-ui-router.js"></script>
-<script src="/vendors/toastr/toastr.js"></script>
-<script src="/vendors/angular-animate/angular-animate.js"></script>
-<script src="/vendors/angular-bootstrap/ui-bootstrap-tpls.js"></script>
-<script src="/vendors/angular-ui-layout/src/ui-layout.js"></script>
-<script src="/vendors/hammerjs/hammer.js"></script>
-<script src="/vendors/Jcrop/js/Jcrop.js"></script>
-<script src="/vendors/angular-bootstrap-colorpicker/js/bootstrap-colorpicker-module.js"></script>
+<script src="ng-demo/vendor/jquery/dist/jquery.js"></script>
+<script src="ng-demo/vendor/angular/angular.js"></script>
+<script src="ng-demo/vendor/angular-sanitize/angular-sanitize.js"></script>
+<script src="ng-demo/vendor/bootstrap/dist/js/bootstrap.js"></script>
+<script src="ng-demo/vendor/extras.angular.plus/ngplus-overlay.js"></script>
+<script src="ng-demo/vendor/moment/moment.js"></script>
+<script src="ng-demo/vendor/angular-ui-router/release/angular-ui-router.js"></script>
+<script src="ng-demo/vendor/toastr/toastr.js"></script>
+<script src="ng-demo/vendor/angular-animate/angular-animate.js"></script>
+<script src="ng-demo/vendor/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+<script src="ng-demo/vendor/angular-ui-layout/src/ui-layout.js"></script>
+<script src="ng-demo/vendor/hammerjs/hammer.js"></script>
+<script src="ng-demo/vendor/Jcrop/js/Jcrop.js"></script>
+<script src="ng-demo/vendor/angular-bootstrap-colorpicker/js/bootstrap-colorpicker-module.js"></script>
 <!-- endbower -->
 <!-- endbuild -->
 
 <!-- build:js js/app.js -->
 <!-- inject:js -->
-<script src="/app/app.module.js"></script>
-<script src="/app/blocks/exception/exception.module.js"></script>
-<script src="/app/blocks/logger/logger.module.js"></script>
-<script src="/app/blocks/router/router.module.js"></script>
-<script src="/app/common/common.module.js"></script>
-<script src="/app/components/components.module.js"></script>
-<script src="/app/core/core.module.js"></script>
-<script src="/app/dashboard/dashboard.module.js"></script>
-<script src="/app/editor/editor.module.js"></script>
-<script src="/app/layout/layout.module.js"></script>
-<script src="/app/operations/operations.module.js"></script>
-<script src="/app/playground/playground.module.js"></script>
-<script src="/app/surface/surface.module.js"></script>
-<script src="/app/widgets/widgets.module.js"></script>
-<script src="/app/blocks/exception/exception-handler.provider.js"></script>
-<script src="/app/blocks/exception/exception.js"></script>
-<script src="/app/blocks/logger/logger.js"></script>
-<script src="/app/blocks/router/router-helper.provider.js"></script>
-<script src="/app/common/current-state.service.js"></script>
-<script src="/app/components/animation.directive.js"></script>
-<script src="/app/components/component-entity.directive.js"></script>
-<script src="/app/components/component-service.service.js"></script>
-<script src="/app/components/component-surface.directive.js"></script>
-<script src="/app/components/component.directive.js"></script>
-<script src="/app/components/components.directive.js"></script>
-<script src="/app/core/config.js"></script>
-<script src="/app/core/constants.js"></script>
-<script src="/app/core/core.route.js"></script>
-<script src="/app/core/dataservice.js"></script>
-<script src="/app/dashboard/dashboard.controller.js"></script>
-<script src="/app/dashboard/dashboard.route.js"></script>
-<script src="/app/editor/backface-style.filter.js"></script>
-<script src="/app/editor/edit-control.directive.js"></script>
-<script src="/app/editor/edit-stage.directive.js"></script>
-<script src="/app/editor/stage-operations.directive.js"></script>
-<script src="/app/editor/tickmark.directive.js"></script>
-<script src="/app/layout/edit-header.directive.js"></script>
-<script src="/app/layout/edit-main.directive.js"></script>
-<script src="/app/layout/page-editor.directive.js"></script>
-<script src="/app/layout/page-list.directive.js"></script>
-<script src="/app/operations/component-drag.directive.js"></script>
-<script src="/app/operations/component-resize.directive.js"></script>
-<script src="/app/operations/component-rotate.directive.js"></script>
-<script src="/app/operations/grid-guide.directive.js"></script>
-<script src="/app/operations/hot-key.directive.js"></script>
-<script src="/app/operations/mouse-component-select.directive.js"></script>
-<script src="/app/operations/multi-component-drag.directive.js"></script>
-<script src="/app/operations/selection-service.service.js"></script>
-<script src="/app/playground/playground.controller.js"></script>
-<script src="/app/playground/playground.route.js"></script>
-<script src="/app/playground/playground.service.js"></script>
-<script src="/app/surface/image-surface.directive.js"></script>
-<script src="/app/surface/shape-surface.directive.js"></script>
-<script src="/app/surface/text-surface.directive.js"></script>
-<script src="/app/widgets/animate-panel.directive.js"></script>
-<script src="/app/widgets/animation-editor.directive.js"></script>
-<script src="/app/widgets/animation-service.service.js"></script>
-<script src="/app/widgets/image-panel.directive.js"></script>
-<script src="/app/widgets/multi-select.directive.js"></script>
-<script src="/app/widgets/page-thumbnail.directive.js"></script>
-<script src="/app/widgets/property-panel.directive.js"></script>
-<script src="/app/widgets/shape-panel.directive.js"></script>
-<script src="/app/widgets/text-panel.direcitve.js"></script>
+<script src="ng-demo/app/app.module.js"></script>
+<script src="ng-demo/app/blocks/exception/exception.module.js"></script>
+<script src="ng-demo/app/blocks/logger/logger.module.js"></script>
+<script src="ng-demo/app/blocks/router/router.module.js"></script>
+<script src="ng-demo/app/common/common.module.js"></script>
+<script src="ng-demo/app/components/components.module.js"></script>
+<script src="ng-demo/app/core/core.module.js"></script>
+<script src="ng-demo/app/dashboard/dashboard.module.js"></script>
+<script src="ng-demo/app/editor/editor.module.js"></script>
+<script src="ng-demo/app/layout/layout.module.js"></script>
+<script src="ng-demo/app/operations/operations.module.js"></script>
+<script src="ng-demo/app/playground/playground.module.js"></script>
+<script src="ng-demo/app/surface/surface.module.js"></script>
+<script src="ng-demo/app/widgets/widgets.module.js"></script>
+<script src="ng-demo/app/blocks/exception/exception-handler.provider.js"></script>
+<script src="ng-demo/app/blocks/exception/exception.js"></script>
+<script src="ng-demo/app/blocks/logger/logger.js"></script>
+<script src="ng-demo/app/blocks/router/router-helper.provider.js"></script>
+<script src="ng-demo/app/common/current-state.service.js"></script>
+<script src="ng-demo/app/components/animation.directive.js"></script>
+<script src="ng-demo/app/components/component-entity.directive.js"></script>
+<script src="ng-demo/app/components/component-service.service.js"></script>
+<script src="ng-demo/app/components/component-surface.directive.js"></script>
+<script src="ng-demo/app/components/component.directive.js"></script>
+<script src="ng-demo/app/components/components.directive.js"></script>
+<script src="ng-demo/app/core/config.js"></script>
+<script src="ng-demo/app/core/constants.js"></script>
+<script src="ng-demo/app/core/core.route.js"></script>
+<script src="ng-demo/app/core/dataservice.js"></script>
+<script src="ng-demo/app/dashboard/dashboard.controller.js"></script>
+<script src="ng-demo/app/dashboard/dashboard.route.js"></script>
+<script src="ng-demo/app/editor/backface-style.filter.js"></script>
+<script src="ng-demo/app/editor/edit-control.directive.js"></script>
+<script src="ng-demo/app/editor/edit-stage.directive.js"></script>
+<script src="ng-demo/app/editor/stage-operations.directive.js"></script>
+<script src="ng-demo/app/editor/tickmark.directive.js"></script>
+<script src="ng-demo/app/layout/edit-header.directive.js"></script>
+<script src="ng-demo/app/layout/edit-main.directive.js"></script>
+<script src="ng-demo/app/layout/page-editor.directive.js"></script>
+<script src="ng-demo/app/layout/page-list.directive.js"></script>
+<script src="ng-demo/app/operations/component-drag.directive.js"></script>
+<script src="ng-demo/app/operations/component-resize.directive.js"></script>
+<script src="ng-demo/app/operations/component-rotate.directive.js"></script>
+<script src="ng-demo/app/operations/grid-guide.directive.js"></script>
+<script src="ng-demo/app/operations/hot-key.directive.js"></script>
+<script src="ng-demo/app/operations/mouse-component-select.directive.js"></script>
+<script src="ng-demo/app/operations/multi-component-drag.directive.js"></script>
+<script src="ng-demo/app/operations/selection-service.service.js"></script>
+<script src="ng-demo/app/playground/playground.controller.js"></script>
+<script src="ng-demo/app/playground/playground.route.js"></script>
+<script src="ng-demo/app/playground/playground.service.js"></script>
+<script src="ng-demo/app/surface/image-surface.directive.js"></script>
+<script src="ng-demo/app/surface/shape-surface.directive.js"></script>
+<script src="ng-demo/app/surface/text-surface.directive.js"></script>
+<script src="ng-demo/app/widgets/animate-panel.directive.js"></script>
+<script src="ng-demo/app/widgets/animation-editor.directive.js"></script>
+<script src="ng-demo/app/widgets/animation-service.service.js"></script>
+<script src="ng-demo/app/widgets/image-panel.directive.js"></script>
+<script src="ng-demo/app/widgets/multi-select.directive.js"></script>
+<script src="ng-demo/app/widgets/page-thumbnail.directive.js"></script>
+<script src="ng-demo/app/widgets/property-panel.directive.js"></script>
+<script src="ng-demo/app/widgets/shape-panel.directive.js"></script>
+<script src="ng-demo/app/widgets/text-panel.direcitve.js"></script>
 <!-- endinject -->
 
 <!-- inject:templates:js -->
-<script src="/app/templates.js"></script>
+<script src="ng-demo/app/templates.js"></script>
 <!-- endinject -->
 <!-- endbuild -->
 </body>

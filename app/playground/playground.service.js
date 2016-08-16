@@ -12,7 +12,7 @@
                 //return $http.get('/api/start-guide')
                 //    .then(success)
                 //    .catch(fail);
-                return $http.get('/start-guide.json')
+                return $http.get('ng-demo/start-guide.json')
                     .then(success)
                     .catch(fail);
 
