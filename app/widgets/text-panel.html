@@ -1,0 +1,76 @@
+<div class="control-panel property-panel text-panel">
+    <uib-accordion close-others="false">
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>格式</uib-accordion-heading>
+            <div>
+                <div>
+                    字体
+                    <select name="fontFamily" ng-model="vm.selectedTextComponent.style.fontFamily">
+                        <option value="">默认字体</option>
+                        <option value="黑体">黑体</option>
+                        <option value="微软雅黑">微软雅黑</option>
+                        <option value="宋体">宋体</option>
+                    </select>
+                </div>
+                <div>
+                    字体大小
+                    <input type="text" ng-model="vm.selectedTextComponent.style.fontSize" />
+                </div>
+                <div>
+                    字体颜色
+                    <input colorpicker="rgba" type="text" ng-model="vm.selectedTextComponent.style.color" />
+                </div>
+                <div>
+                    背景颜色
+                    <input colorpicker="rgba" type="text" ng-model="vm.selectedTextComponent.style.backgroundColor" />
+                </div>
+                <div>
+                    <span><i class="fa fa-bold"></i></span>
+                    <span><i class="fa fa-italic"></i></span>
+                    <span><i class="fa fa-underline"></i></span>
+                    <span><i class="fa fa-align-left"></i></span>
+                    <span><i class="fa fa-align-center"></i></span>
+                    <span><i class="fa fa-align-right"></i></span>
+                </div>
+            </div>
+        </div>
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>间距</uib-accordion-heading>
+            <div>
+                <div>行高</div>
+            </div>
+        </div>
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>文本投影</uib-accordion-heading>
+            <div>
+                <div>x</div>
+                <div>y</div>
+                <div></div>
+            </div>
+        </div>
+
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>外观</uib-accordion-heading>
+            <div>
+                <div>
+                    x
+                    <input type="number" ng-model="vm.selectedTextComponent.style.top"/>
+                </div>
+                <div>
+                    y
+                    <input type="number" ng-model="vm.selectedTextComponent.style.left"/>
+                </div>
+                <div>
+                    宽
+                    <input type="number" ng-model="vm.selectedTextComponent.style.width"/>
+                </div>
+                <!-- 文本不修改高度 -->
+                <div>
+                    旋转
+                    <input type="number" ng-model="vm.selectedTextComponent.style.rotate"/>
+                </div>
+            </div>
+        </div>
+
+    </uib-accordion>
+</div>

@@ -1,0 +1,49 @@
+<div class="edit-header">
+    <div class="go-back">
+        <a class="btn btn-menu" ng-click="vm.exitEditor()">退出编辑</a>
+    </div>
+    <div class="menu">
+        <ul class="nav nav-pills">
+            <li>
+                <div class="btn-group" uib-dropdown>
+                    <a class="btn btn-menu btn-menu-text" uib-dropdown-toggle>
+                        <i class="fa fa-font"></i>
+                        文本 <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu" uib-dropdown-menu role="menu">
+                        <li role="menuitem"><a style="font-size: 12px;" ng-click="vm.addTextComponent(12)">小号字</a></li>
+                        <li role="menuitem"><a style="font-size: 20px;" ng-click="vm.addTextComponent(20)">中号字</a></li>
+                        <li role="menuitem"><a style="font-size: 32px;" ng-click="vm.addTextComponent(32)">大号字</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <div class="btn-group" uib-dropdown>
+                    <a class="btn btn-menu btn-menu-text" uib-dropdown-toggle>
+                        <i class="fa fa-picture-o"></i>
+                        图片 <span class="caret"></span>
+                    </a>
+                    <div class="dropdown-menu" uib-dropdown-menu role="menu">
+                        图片
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="btn-group" uib-dropdown>
+                    <a class="btn btn-menu btn-menu-text" uib-dropdown-toggle>
+                        <i class="fa fa-cube"></i>
+                        形状 <span class="caret"></span>
+                    </a>
+                    <div class="dropdown-menu" uib-dropdown-menu role="menu">
+                        形状
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="operations">
+        <a class="btn btn-menu" ng-click="vm.save()">保存</a>
+        <a class="btn btn-menu" ng-click="vm.preview()">预览</a>
+        <a class="btn btn-menu" ng-click="vm.submit()">提交审核</a>
+    </div>
+</div>

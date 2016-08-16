@@ -1,0 +1,38 @@
+<div class="control-panel property-panel image-panel">
+    <uib-accordion close-others="false">
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>图片</uib-accordion-heading>
+            <div class="image-crop-container">
+                <img class="selected-image-cmp" ng-src="{{vm.selectedImageComponent.file.key}}">
+            </div>
+        </div>
+
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>外观</uib-accordion-heading>
+            <div>
+                <div>
+                    x
+                    <input type="number" ng-model="vm.selectedImageComponent.style.top"/>
+                </div>
+                <div>
+                    y
+                    <input type="number" ng-model="vm.selectedImageComponent.style.left"/>
+                </div>
+                <div>
+                    宽
+                    <input type="number" ng-model="vm.selectedImageComponent.style.width"/>
+                </div>
+                <div>
+                    高
+                    <input type="number" ng-model="vm.selectedImageComponent.style.height"/>
+                </div>
+                <div>
+                    旋转
+                    <input type="number" ng-model="vm.selectedImageComponent.style.rotate"/>
+                </div>
+
+            </div>
+        </div>
+
+    </uib-accordion>
+</div>

@@ -1,0 +1,57 @@
+<div class="edit-control-wrapper" ng-switch on="vm.controlState">
+    <div class="animate-switch" ng-switch-default>
+        <uib-tabset>
+            <uib-tab>
+                <uib-tab-heading>页面</uib-tab-heading>
+                <property-panel></property-panel>
+            </uib-tab>
+        </uib-tabset>
+    </div>
+    <div class="animate-switch" ng-switch-when="1">
+        <!-- 文本 -->
+        <uib-tabset>
+            <uib-tab>
+                <uib-tab-heading>属性</uib-tab-heading>
+                <text-panel></text-panel>
+            </uib-tab>
+            <uib-tab>
+                <uib-tab-heading>动画</uib-tab-heading>
+                <animate-panel></animate-panel>
+            </uib-tab>
+        </uib-tabset>
+    </div>
+    <div class="animate-switch" ng-switch-when="2">
+        <!-- 图片 -->
+        <uib-tabset>
+            <uib-tab>
+                <uib-tab-heading>属性</uib-tab-heading>
+                <image-panel></image-panel>
+            </uib-tab>
+            <uib-tab>
+                <uib-tab-heading>动画</uib-tab-heading>
+                <animate-panel></animate-panel>
+            </uib-tab>
+        </uib-tabset>
+    </div>
+    <div class="animate-switch" ng-switch-when="3">
+        <!-- 形状 -->
+        <uib-tabset>
+            <uib-tab>
+                <uib-tab-heading>属性</uib-tab-heading>
+                <shape-panel></shape-panel>
+            </uib-tab>
+            <uib-tab>
+                <uib-tab-heading>动画</uib-tab-heading>
+                <animate-panel></animate-panel>
+            </uib-tab>
+        </uib-tabset>
+    </div>
+    <div class="animate-switch" ng-switch-when="4">
+        <uib-tabset>
+            <uib-tab>
+                <uib-tab-heading>多选</uib-tab-heading>
+                <multi-select-panel></multi-select-panel>
+            </uib-tab>
+        </uib-tabset>
+    </div>
+</div>

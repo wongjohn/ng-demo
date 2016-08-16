@@ -1,0 +1,4124 @@
+[
+    {
+        "id": "4f1fb06c-1796-499d-8c59-7631f1d8804a",
+        "appid": "6ffe71fd-d40c-457f-860a-9f05410a3c52",
+        "bgcolor": null,
+        "bgimage": "http://cdn3.rabbitpre.com/0d0b3900-7a5e-4aab-86e6-1ced01c83c35-6515",
+        "cmps": [
+            {
+                "tid": 1468222810544,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 103,
+                    "top": 23,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "replace": false,
+                "file": {
+                    "key": "http://file2.rabbitpre.com/c568bcea-e8ef-476f-9c85-41f2dc71e60c-5918",
+                    "style": {}
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 0.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片02"
+            },
+            {
+                "tid": 1468222810545,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 62,
+                    "top": 63.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file2.rabbitpre.com/81a53745-531a-42bc-a759-7d1567167bce-2750"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 2.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片03"
+            },
+            {
+                "tid": 1468222810546,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 185,
+                    "top": 105,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/97d7134c-ea2c-411c-bd61-fd62cfed3fc2-7346"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 3.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片04"
+            },
+            {
+                "tid": 1468222810547,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 21,
+                    "top": 22.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/8b69af7e-9818-4b1a-87ad-413db38cb567-6142"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片05"
+            },
+            {
+                "tid": 1468222810548,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": -20,
+                    "top": 63,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/053bbc7f-5771-4d9a-ae56-a88ee81c47b0-0938"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 1.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片06"
+            },
+            {
+                "tid": 1468222810549,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": -61,
+                    "top": 103.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file.rabbitpre.com/4adcd7b0-d309-4ade-8ff3-4a38a6bd491e-2948"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 3.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片07"
+            },
+            {
+                "tid": 1468222810550,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 184,
+                    "top": 186.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/b68a7924-7772-4e14-a855-708e14523c7c-5493"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 0.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片08"
+            },
+            {
+                "tid": 1468222810551,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 225.5,
+                    "top": -18,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/1f4b425a-9402-49d6-8981-349980bc984c-6768"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 3.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片09"
+            },
+            {
+                "tid": 1468222810552,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 144,
+                    "top": 64,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/aa44ed3a-a1d3-4528-9fa7-4ba689d506ba-7610"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 2.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片10"
+            },
+            {
+                "tid": 1468222810553,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 62,
+                    "top": -18,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/5b6ea31f-35e5-41af-bd90-f2a711c9b471-5194"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片11",
+                "visible": true
+            },
+            {
+                "tid": 1468222810554,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 266.5,
+                    "top": 23,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/d07527ad-23dd-4f35-b681-0e7415e439c2-4287"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 2.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片12"
+            },
+            {
+                "tid": 1468222810556,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 21,
+                    "top": 104,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/fa0111a5-5d3a-43c0-916d-c2ba7f451c5f-7807"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 0.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片14"
+            },
+            {
+                "tid": 1468222810557,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 225,
+                    "top": 145.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/5d60bb77-374e-4864-859f-92e82cf54923-3813"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 2.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片15",
+                "visible": true
+            },
+            {
+                "tid": 1468222810558,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": -20.5,
+                    "top": -18.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/9093bbe4-c497-4bdb-876e-c630fb9ade5a-8975"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片16"
+            },
+            {
+                "tid": 1468222810559,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 103.5,
+                    "top": 268,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/5d07f9d7-4724-4c82-ba9d-a08bcf37006f-7757"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 3
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片17"
+            },
+            {
+                "tid": 1468222810560,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 62.5,
+                    "top": 227,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/404dd9d9-fed2-4653-b61d-e61ed1fccb8a-7269"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 1
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片18"
+            },
+            {
+                "tid": 1468222810561,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 82.5,
+                    "left": 238,
+                    "top": 243.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/888982d0-620a-49c0-a193-3f035985bec5-6656"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 1.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片19"
+            },
+            {
+                "tid": 1468222810562,
+                "style": {
+                    "position": "absolute",
+                    "width": 163,
+                    "height": 164,
+                    "left": 62,
+                    "top": 104.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/d45703fe-0c14-495c-b76a-190c38ca0545-7443"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 1.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片20"
+            },
+            {
+                "tid": 1468222810563,
+                "style": {
+                    "position": "absolute",
+                    "width": 161,
+                    "height": 162,
+                    "left": 105,
+                    "top": -97.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/2113ac30-46b2-4ad0-9a6d-b637d41c0ae8-8658"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 3.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片21",
+                "visible": true
+            },
+            {
+                "tid": 1468222810567,
+                "style": {
+                    "position": "absolute",
+                    "width": 53.5,
+                    "height": 76.5,
+                    "left": 9.5,
+                    "top": 186,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file2.rabbitpre.com/e464cd46-1769-4b94-b3e7-1f1d73d90dcb-1274"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": false,
+                        "delay": 8.2
+                    },
+                    {
+                        "name": "tada",
+                        "active": true,
+                        "count": "infinite"
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片25"
+            },
+            {
+                "tid": 1468222810569,
+                "style": {
+                    "position": "absolute",
+                    "width": 298,
+                    "height": 97.5,
+                    "left": 38,
+                    "top": 437.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/d21d2bbb-f342-4d16-bd36-9af03dd7fc02-8653"
+                },
+                "animation": [
+                    {
+                        "name": "slideUp",
+                        "active": true,
+                        "delay": 5.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片27"
+            },
+            {
+                "tid": 1468222810570,
+                "style": {
+                    "position": "absolute",
+                    "width": 244,
+                    "height": 33.5,
+                    "left": 62,
+                    "top": 364,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/2a46dcab-6d0e-47c8-a346-38e00dc3df30-3307"
+                },
+                "animation": [
+                    {
+                        "name": "slideLeft",
+                        "active": true,
+                        "delay": 6.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片28"
+            },
+            {
+                "tid": 1468222810571,
+                "style": {
+                    "position": "absolute",
+                    "width": 114.5,
+                    "height": 17.5,
+                    "left": 187,
+                    "top": 337,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/58647330-af19-4560-bc95-609b73c23a32-4499"
+                },
+                "animation": [
+                    {
+                        "name": "slideLeft",
+                        "active": true,
+                        "delay": 6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片29"
+            },
+            {
+                "tid": 1468222810572,
+                "style": {
+                    "position": "absolute",
+                    "width": 116.5,
+                    "height": 15,
+                    "left": 191.5,
+                    "top": 407,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/e8a175ad-aa6f-4544-9abf-82e0674f1e2b-8567"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 7.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片30"
+            },
+            {
+                "tid": 1468222810573,
+                "style": {
+                    "position": "absolute",
+                    "width": 109,
+                    "height": 8.5,
+                    "left": 195.5,
+                    "top": 410,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/0268f09d-f8b6-496d-89e2-f87841aba76a-0518"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 7.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片31"
+            },
+            {
+                "tid": 1468223276946,
+                "style": {
+                    "width": 46,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": -2,
+                    "top": 16.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontSize: 14px; color: rgb(255, 255, 255); fontFamily: 微软雅黑;\">新鲜</div>",
+                "animation": [
+                    {
+                        "name": "translate",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字32"
+            },
+            {
+                "tid": 1468223339538,
+                "style": {
+                    "width": 68,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 71,
+                    "top": 16.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontSize: 14px; color: rgb(255, 255, 255); fontFamily: 微软雅黑;\">健康</div>",
+                "animation": [
+                    {
+                        "name": "translate",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字33"
+            },
+            {
+                "tid": 1468223395321,
+                "style": {
+                    "width": 75,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 189,
+                    "top": 57.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontSize: 14px; color: rgb(0, 167, 255); fontFamily: 微软雅黑;\">果农直送</div>",
+                "animation": [
+                    {
+                        "name": "translate",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字34"
+            }
+        ],
+        "createtime": "2016-07-23T04:34:44.000Z",
+        "updatetime": "2016-07-25T02:29:19.000Z"
+    },
+    {
+        "id": "1ed9c352-9483-40c8-b929-c53c74b543b2",
+        "appid": "6ffe71fd-d40c-457f-860a-9f05410a3c52",
+        "bgcolor": "#FFFFFF",
+        "bgimage": null,
+        "cmps": [
+            {
+                "tid": 1468223705295,
+                "style": {
+                    "position": "absolute",
+                    "width": 237.5,
+                    "height": 206.5,
+                    "left": 51.5,
+                    "top": 290,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/2e7faa47-9ca1-4088-bad0-98515ab3790a-7095"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片02"
+            },
+            {
+                "tid": 1468223705296,
+                "style": {
+                    "position": "absolute",
+                    "width": 232.5,
+                    "height": 290,
+                    "left": -9,
+                    "top": 0,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/27d0d0a0-e510-4ed5-8987-fd2587e8fe06-1362"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "active": true,
+                        "delay": 0.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片03"
+            },
+            {
+                "tid": 1468223705297,
+                "style": {
+                    "position": "absolute",
+                    "width": 57,
+                    "height": 57,
+                    "left": 13,
+                    "top": 277,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/65c2dca0-949a-46b1-9d94-80ab23b99f7a-2176"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片04"
+            },
+            {
+                "tid": 1468223705298,
+                "style": {
+                    "position": "absolute",
+                    "width": 57,
+                    "height": 57,
+                    "left": 246.5,
+                    "top": 195.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/63974744-f809-4b1f-83c8-78c20fc71564-7320"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片05"
+            },
+            {
+                "tid": 1468223705299,
+                "style": {
+                    "position": "absolute",
+                    "width": 57,
+                    "height": 57,
+                    "left": 189,
+                    "top": 418.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://ali1.rabbitpre.com/f06c7b70-473c-11e6-838f-7990211ff782"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片06"
+            },
+            {
+                "tid": 1468223816869,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 241.5,
+                    "top": 215.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<span style=\"color: rgb(255, 255, 255); fontSize: 20px; fontFamily: 方正细圆简体;\">鲜甜</span><span style=\"color: rgb(255, 255, 255);\"></span>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字15"
+            },
+            {
+                "tid": 1468224023792,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 6,
+                    "top": 296.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<span style=\"color: rgb(255, 255, 255); fontSize: 20px; fontFamily: 方正细圆简体;\">红瓤</span><span style=\"color: rgb(255, 255, 255);\"></span>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字16"
+            },
+            {
+                "tid": 1468224042576,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 183,
+                    "top": 438,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<span style=\"color: rgb(255, 255, 255); fontSize: 20px; fontFamily: 方正细圆简体;\">水润</span><span style=\"color: rgb(255, 255, 255);\"></span>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字17"
+            },
+            {
+                "tid": 1468224061557,
+                "style": {
+                    "width": 180,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 155,
+                    "top": 261,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(111, 135, 48); fontSize: 16px;\">口味清甜，脆爽甘美。</div>",
+                "animation": [
+                    {
+                        "name": "bounceInRight",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字18"
+            },
+            {
+                "tid": 1468224140025,
+                "style": {
+                    "width": 108,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": -13,
+                    "top": 339.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"color: rgb(111, 135, 48); fontSize: 16px;\">光滑绿皮</div><div style=\"color: rgb(111, 135, 48); fontSize: 16px;\">红瓤果肉</div>",
+                "animation": [
+                    {
+                        "name": "bounceInLeft",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字19"
+            },
+            {
+                "tid": 1468224170142,
+                "style": {
+                    "width": 108,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 220,
+                    "top": 464,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"color: rgb(111, 135, 48); fontSize: 16px;\">汁多籽少</div><div style=\"color: rgb(111, 135, 48); fontSize: 16px;\">入口爆汁</div>",
+                "animation": [
+                    {
+                        "name": "bounceInRight",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字20"
+            },
+            {
+                "tid": 1468224206839,
+                "style": {
+                    "width": 57,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 271,
+                    "top": 10.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(111, 135, 48); fontSize: 30px; fontFamily: 方正细圆简体;\">无西瓜</div>",
+                "animation": [
+                    {
+                        "name": "slideDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 1.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字21"
+            },
+            {
+                "tid": 1468224245031,
+                "style": {
+                    "width": 57,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 234,
+                    "top": 71.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(111, 135, 48); fontSize: 30px; fontFamily: 方正细圆简体;\">不夏天</div>",
+                "animation": [
+                    {
+                        "name": "slideDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 1.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字22"
+            }
+        ],
+        "createtime": "2016-07-23T04:34:44.000Z",
+        "updatetime": "2016-07-23T04:34:44.000Z"
+    },
+    {
+        "id": "768c4546-8d5a-45bb-9143-7ed3f3e09bc4",
+        "appid": "6ffe71fd-d40c-457f-860a-9f05410a3c52",
+        "bgcolor": "#FFFFFF",
+        "bgimage": null,
+        "cmps": [
+            {
+                "tid": 1468224579582,
+                "style": {
+                    "position": "absolute",
+                    "width": 30.5,
+                    "height": 72,
+                    "left": 21.5,
+                    "top": 403,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/6f38783d-631c-4769-bf20-b492a9da525b-8356"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 6.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片02"
+            },
+            {
+                "tid": 1468224579584,
+                "style": {
+                    "position": "absolute",
+                    "width": 14,
+                    "height": 15,
+                    "left": 26,
+                    "top": 450.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/003ce155-5667-45f8-ad10-fea7340f6d9d-5175"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 6.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片04"
+            },
+            {
+                "tid": 1468224579587,
+                "style": {
+                    "position": "absolute",
+                    "width": 33,
+                    "height": 19,
+                    "left": 13.5,
+                    "top": 465,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/b3ed244b-406f-4430-87bb-2d8da064403f-5908"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInRight",
+                        "active": true,
+                        "delay": 6.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片07"
+            },
+            {
+                "tid": 1468224579588,
+                "style": {
+                    "position": "absolute",
+                    "width": 186.5,
+                    "height": 133,
+                    "left": 142.5,
+                    "top": 376,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/024c3e46-a5fa-44d3-b364-02e65ae80136-9448"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 7.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片08"
+            },
+            {
+                "tid": 1468224579589,
+                "style": {
+                    "position": "absolute",
+                    "width": 320,
+                    "height": 142.5,
+                    "left": 0,
+                    "top": -12,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/794ec0a3-38df-4df6-bcfa-b62f52982920-1209"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "active": true,
+                        "delay": 0.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片09"
+            },
+            {
+                "tid": 1468224579590,
+                "style": {
+                    "position": "absolute",
+                    "width": 314,
+                    "height": 134,
+                    "left": 3,
+                    "top": -9,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/bc3d4215-1430-4a31-9587-3f1e4bd9c17f-5080"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 0.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片10"
+            },
+            {
+                "tid": 1468224579591,
+                "style": {
+                    "position": "absolute",
+                    "width": 86,
+                    "height": 85.5,
+                    "left": 117,
+                    "top": 82,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/e63d097b-8e14-40ed-a831-5ebb4fa116c7-1541"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 1.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片11",
+                "visible": true
+            },
+            {
+                "tid": 1468224579593,
+                "style": {
+                    "position": "absolute",
+                    "width": 242.5,
+                    "height": 99.5,
+                    "left": 68.5,
+                    "top": 176.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/0eea480c-906f-4a32-be21-0dcb02ac90a3-5880"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "active": true,
+                        "delay": 3.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片13"
+            },
+            {
+                "tid": 1468224579594,
+                "style": {
+                    "position": "absolute",
+                    "width": 7,
+                    "height": 64.5,
+                    "left": 86.5,
+                    "top": 189.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file2.rabbitpre.com/866abaab-379a-42eb-a62c-5232dfbe615e-9800"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片14"
+            },
+            {
+                "tid": 1468224579595,
+                "style": {
+                    "position": "absolute",
+                    "width": 10,
+                    "height": 11,
+                    "left": 93.5,
+                    "top": 258,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/5acb757f-03b5-4b46-b1a0-8412dbd4ca36-6642"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片15"
+            },
+            {
+                "tid": 1468224579597,
+                "style": {
+                    "position": "absolute",
+                    "width": 7,
+                    "height": 64.5,
+                    "left": 142.5,
+                    "top": 189.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/e7833dc7-9042-4875-9eb3-fad51a578cca-8484"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片17"
+            },
+            {
+                "tid": 1468224579598,
+                "style": {
+                    "position": "absolute",
+                    "width": 10,
+                    "height": 11,
+                    "left": 149.5,
+                    "top": 258,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/6facf0c1-a40c-4716-afac-9f9aa8b02aee-0300"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片18"
+            },
+            {
+                "tid": 1468224579600,
+                "style": {
+                    "position": "absolute",
+                    "width": 7,
+                    "height": 64.5,
+                    "left": 198.5,
+                    "top": 189.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/1b3de0d1-5616-49e7-8dd8-8250ef39fd00-2817"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片20"
+            },
+            {
+                "tid": 1468224579601,
+                "style": {
+                    "position": "absolute",
+                    "width": 10,
+                    "height": 11,
+                    "left": 205.5,
+                    "top": 258,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/333ba804-5370-4467-b023-60894c48fb02-6832"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片21"
+            },
+            {
+                "tid": 1468224579603,
+                "style": {
+                    "position": "absolute",
+                    "width": 7,
+                    "height": 64.5,
+                    "left": 254.5,
+                    "top": 189.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/39fc9d08-83eb-4e6f-8ece-9354242fb044-0535"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片23"
+            },
+            {
+                "tid": 1468224579604,
+                "style": {
+                    "position": "absolute",
+                    "width": 10,
+                    "height": 11,
+                    "left": 261.5,
+                    "top": 258,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/28833c68-b5c7-4095-93a7-955db3010cb2-4173"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片24"
+            },
+            {
+                "tid": 1468224579606,
+                "style": {
+                    "position": "absolute",
+                    "width": 30.5,
+                    "height": 72,
+                    "left": 21.5,
+                    "top": 182.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/8c39f888-2a5e-4f6e-bf0b-4694d03413de-5476"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片26"
+            },
+            {
+                "tid": 1468224579608,
+                "style": {
+                    "position": "absolute",
+                    "width": 14,
+                    "height": 15,
+                    "left": 26,
+                    "top": 230,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/8d6e0910-b3ba-46fd-a165-6705b4e649b4-9238"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片28"
+            },
+            {
+                "tid": 1468224579610,
+                "style": {
+                    "position": "absolute",
+                    "width": 33,
+                    "height": 19,
+                    "left": 13.5,
+                    "top": 244.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/6c31edae-c59b-4819-a217-df6591836063-8610"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInRight",
+                        "active": true,
+                        "delay": 2.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片30"
+            },
+            {
+                "tid": 1468224579611,
+                "style": {
+                    "position": "absolute",
+                    "width": 375,
+                    "height": 104,
+                    "left": -17,
+                    "top": 286,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/ecf2e2a0-5421-4a47-886c-46c855bc0c59-2700"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 6.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片31"
+            },
+            {
+                "tid": 1468224619530,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 148,
+                    "top": 88.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 24px;\">红富士</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字32"
+            },
+            {
+                "tid": 1468224741355,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 27.5,
+                    "top": 189.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 20px;\">产品</div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字34"
+            },
+            {
+                "tid": 1468224753387,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 45,
+                    "top": 229,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 20px;\">特点</div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字35"
+            },
+            {
+                "tid": 1468224782945,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 103.5,
+                    "top": 185,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 24px;\"><span style=\"fontSize: 16px; font-weight: 700;\">硕大饱满</span><span style=\"fontSize: 22px;\"></span></div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字36"
+            },
+            {
+                "tid": 1468224817046,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 160,
+                    "top": 188,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 24px;\"><span style=\"fontSize: 16px; font-weight: 700;\">清甜爽口</span><span style=\"fontSize: 22px;\"></span></div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字37"
+            },
+            {
+                "tid": 1468224829527,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 218.5,
+                    "top": 186,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 24px;\"><span style=\"fontSize: 16px; font-weight: 700;\">时令现摘</span><span style=\"fontSize: 22px;\"></span></div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字38"
+            },
+            {
+                "tid": 1468224866353,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 271.5,
+                    "top": 186,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 24px;\"><span style=\"fontSize: 16px; font-weight: 700;\">营养丰富</span><span style=\"fontSize: 22px;\"></span></div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5.6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字39"
+            },
+            {
+                "tid": 1468224890439,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 27.5,
+                    "top": 408.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 20px;\">产品</div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字40"
+            },
+            {
+                "tid": 1468224897353,
+                "style": {
+                    "width": 24,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 43.5,
+                    "top": 447,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontFamily: hakuyokaishu7000; fontSize: 20px;\">详情</div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字41"
+            },
+            {
+                "tid": 1468224913615,
+                "style": {
+                    "width": 116,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 73,
+                    "top": 404.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"fontSize: 14px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">果径：约85cm</div><div style=\"fontSize: 14px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">果重：约180g</div><div style=\"fontSize: 14px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">产地：栖霞</div>",
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字42",
+                "visible": true,
+                "editable": true
+            }
+        ],
+        "createtime": "2016-07-23T04:34:44.000Z",
+        "updatetime": "2016-07-24T23:51:23.000Z"
+    },
+    {
+        "id": "9afdb70e-dada-4767-9e0e-0c0be81b1edc",
+        "appid": "6ffe71fd-d40c-457f-860a-9f05410a3c52",
+        "bgcolor": "#FFFFFF",
+        "bgimage": null,
+        "cmps": [
+            {
+                "tid": 1468243599073,
+                "style": {
+                    "position": "absolute",
+                    "width": 103.5,
+                    "height": 139,
+                    "left": 207,
+                    "top": 357.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file3.rabbitpre.com/e1acb7f0-1752-45b7-b47c-51667d1286d5-6642"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "active": true,
+                        "delay": 6.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片30"
+            },
+            {
+                "tid": 1468242107860,
+                "style": {
+                    "position": "absolute",
+                    "width": 320,
+                    "height": 240.5,
+                    "left": 0,
+                    "top": 11.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/3f48cfbc-b9e8-4bff-8848-555fc0965460-9530"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "active": true,
+                        "delay": 0.6,
+                        "duration": 1.5
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片02"
+            },
+            {
+                "tid": 1468242107861,
+                "style": {
+                    "position": "absolute",
+                    "width": 144.5,
+                    "height": 140,
+                    "left": 167.5,
+                    "top": 67,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/7f9939bc-1338-4ba9-a186-45819f950b1b-8808"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 1.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片03"
+            },
+            {
+                "tid": 1468242107862,
+                "style": {
+                    "position": "absolute",
+                    "width": 188,
+                    "height": 29,
+                    "left": 19.5,
+                    "top": 23.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/dfa7777d-9996-4ada-99cf-d03a4028d63b-8788"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInRight",
+                        "active": true,
+                        "delay": 1.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片04"
+            },
+            {
+                "tid": 1468242107863,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 87,
+                    "left": 15,
+                    "top": 221,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/aaca56bd-c892-46ae-a65e-cefe621040d7-4189"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 2.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片05"
+            },
+            {
+                "tid": 1468242107864,
+                "style": {
+                    "position": "absolute",
+                    "width": 81,
+                    "height": 81,
+                    "left": 15.5,
+                    "top": 224,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/02a82803-0615-4f49-96c2-da723c85672e-2737"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片06",
+                "visible": true
+            },
+            {
+                "tid": 1468242107865,
+                "style": {
+                    "position": "absolute",
+                    "width": 26,
+                    "height": 30,
+                    "left": 43,
+                    "top": 290,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/ae75bfa2-7f1e-4ffc-9fd0-6857455c565c-9865"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 2.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片07"
+            },
+            {
+                "tid": 1468242107866,
+                "style": {
+                    "position": "absolute",
+                    "width": 5.5,
+                    "height": 12,
+                    "left": 52.5,
+                    "top": 298.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/2b14392e-c17e-41b3-a33c-4ca3757ae9bd-2116"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 3
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片08"
+            },
+            {
+                "tid": 1468242107868,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 87,
+                    "left": 119.5,
+                    "top": 221,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/14e8f4ec-4874-40d4-9850-19c7b0755d93-9982"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 3.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片10"
+            },
+            {
+                "tid": 1468242107869,
+                "style": {
+                    "position": "absolute",
+                    "width": 81,
+                    "height": 81,
+                    "left": 120,
+                    "top": 224,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/04e98e12-62e5-470c-af70-c3fdb786ba5b-9499"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片11"
+            },
+            {
+                "tid": 1468242107870,
+                "style": {
+                    "position": "absolute",
+                    "width": 26,
+                    "height": 30,
+                    "left": 147.5,
+                    "top": 290,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/f5c89651-9687-4320-8849-1c7c4f07c199-4450"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 3.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片12"
+            },
+            {
+                "tid": 1468242107871,
+                "style": {
+                    "position": "absolute",
+                    "width": 7.5,
+                    "height": 12,
+                    "left": 157,
+                    "top": 298.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/2670d6c4-f523-455d-800e-95c923058126-7498"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片13"
+            },
+            {
+                "tid": 1468242107873,
+                "style": {
+                    "position": "absolute",
+                    "width": 82,
+                    "height": 87,
+                    "left": 223.5,
+                    "top": 221,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file.rabbitpre.com/872b89e9-f70b-40ca-9db0-1c217f055de7-6047"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 4.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片15"
+            },
+            {
+                "tid": 1468242107874,
+                "style": {
+                    "position": "absolute",
+                    "width": 81,
+                    "height": 81,
+                    "left": 224,
+                    "top": 224,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/aab92a19-5b2b-42ee-8f21-07dc9cd75343-4491"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片16"
+            },
+            {
+                "tid": 1468242107875,
+                "style": {
+                    "position": "absolute",
+                    "width": 26,
+                    "height": 30,
+                    "left": 251.5,
+                    "top": 290,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/d55a66e6-285e-4fe2-9a59-3c276d8b50b5-5943"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片17"
+            },
+            {
+                "tid": 1468242107876,
+                "style": {
+                    "position": "absolute",
+                    "width": 7.5,
+                    "height": 12,
+                    "left": 261,
+                    "top": 298.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/21d794c3-05a3-46a0-993a-f7f002b825d0-0839"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 5
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片18"
+            },
+            {
+                "tid": 1468242107878,
+                "style": {
+                    "position": "absolute",
+                    "width": 200,
+                    "height": 144,
+                    "left": 7,
+                    "top": 360,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/3c24ee26-14a3-46b0-bedb-f680060194b6-8218"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 5.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片20"
+            },
+            {
+                "tid": 1468242169165,
+                "style": {
+                    "width": 84,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 14,
+                    "top": 324.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontSize: 12px; color: rgb(61, 166, 63); fontFamily: 微软雅黑;\">色泽鲜艳\n</div><div style=\"fontSize: 12px; color: rgb(61, 166, 63); fontFamily: 微软雅黑;\">皮薄肉嫩</div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字25"
+            },
+            {
+                "tid": 1468242241664,
+                "style": {
+                    "width": 84,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 118.5,
+                    "top": 323,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontSize: 12px; color: rgb(61, 166, 63);\"></div><span style=\"fontSize: 12px; color: rgb(61, 166, 63); fontFamily: 微软雅黑;\">肉厚多汁</span><div><span style=\"color: rgb(61, 166, 63); fontFamily: 微软雅黑; fontSize: 12px;\">酸甜可口</span><div><div style=\"fontSize: 12px; color: rgb(61, 166, 63);\"></div></div></div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字26"
+            },
+            {
+                "tid": 1468242254333,
+                "style": {
+                    "width": 84,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 223.5,
+                    "top": 322,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<span style=\"color: rgb(61, 166, 63); fontFamily: 微软雅黑; fontSize: 12px;\">细腻饱满</span><div style=\"color: rgb(61, 166, 63); fontFamily: 微软雅黑; fontSize: 12px;\">酸甜爽脆</div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字27"
+            },
+            {
+                "tid": 1468242425322,
+                "style": {
+                    "width": 97,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 212,
+                    "top": 363.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"color: rgb(61, 166, 63); fontFamily: 微软雅黑;\">产品参数</div>",
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字28"
+            },
+            {
+                "tid": 1468242471507,
+                "style": {
+                    "width": 91,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 218,
+                    "top": 391.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"fontSize: 12px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">果径大小：</div><div style=\"fontSize: 12px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">18-26mm<br></div><div style=\"fontSize: 12px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">\n口感：口感甜脆\n</div><div style=\"fontSize: 12px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">储存方法：冷藏保鲜</div><div style=\"fontSize: 12px; fontFamily: 微软雅黑; color: rgb(0, 0, 0);\">\n规格：3斤装</div>",
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字29"
+            }
+        ],
+        "createtime": "2016-07-23T04:34:44.000Z",
+        "updatetime": "2016-07-23T04:34:44.000Z"
+    },
+    {
+        "id": "7702a102-c14a-4fe9-9c66-a0a44d76d604",
+        "appid": "6ffe71fd-d40c-457f-860a-9f05410a3c52",
+        "bgcolor": "#FFFFFF",
+        "bgimage": null,
+        "cmps": [
+            {
+                "tid": 1468243923303,
+                "style": {
+                    "position": "absolute",
+                    "width": 336,
+                    "height": 200,
+                    "left": -8,
+                    "top": -21.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/0dfd7a8a-e99c-4d02-9bb2-0ac196557c55-4627"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInDown",
+                        "active": true,
+                        "delay": 0.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片02"
+            },
+            {
+                "tid": 1468243923304,
+                "style": {
+                    "position": "absolute",
+                    "width": 338.5,
+                    "height": 87,
+                    "left": -10,
+                    "top": 441,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/0d1004d4-a11b-43ae-b192-2912e3dda7be-2392"
+                },
+                "animation": [
+                    {
+                        "name": "bounceInDown",
+                        "active": true,
+                        "delay": 6.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片03"
+            },
+            {
+                "tid": 1468243923307,
+                "style": {
+                    "position": "absolute",
+                    "width": 270,
+                    "height": 190,
+                    "left": 25.5,
+                    "top": 41.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/01ada691-0e75-4789-bba0-1b9155ce0b7e-5082"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 0.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片06"
+            },
+            {
+                "tid": 1468243923309,
+                "style": {
+                    "position": "absolute",
+                    "width": 61,
+                    "height": 2,
+                    "left": 39.5,
+                    "top": 19.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/d3c496e4-fc43-433e-a311-1bff0fdce265-9631"
+                },
+                "animation": [
+                    {
+                        "name": "bounceInLeft",
+                        "active": true,
+                        "delay": 1
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片08"
+            },
+            {
+                "tid": 1468243923310,
+                "style": {
+                    "position": "absolute",
+                    "width": 61,
+                    "height": 2,
+                    "left": 219.5,
+                    "top": 19.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file.rabbitpre.com/a689b542-9087-41a7-908b-3285c92428bd-7143"
+                },
+                "animation": [
+                    {
+                        "name": "bounceInRight",
+                        "active": true,
+                        "delay": 1
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片09"
+            },
+            {
+                "tid": 1468243923311,
+                "style": {
+                    "position": "absolute",
+                    "width": 321,
+                    "height": 41.5,
+                    "left": -0.5,
+                    "top": 205,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/d2c968e1-1002-4ef2-a90a-857555bab514-1974"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 1.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片10"
+            },
+            {
+                "tid": 1468243923312,
+                "style": {
+                    "position": "absolute",
+                    "width": 207.5,
+                    "height": 17.5,
+                    "left": 56,
+                    "top": 217.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/676b236b-ae8a-4b18-a846-e8e2bd787a3f-5074"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片11"
+            },
+            {
+                "tid": 1468243923313,
+                "style": {
+                    "position": "absolute",
+                    "width": 146,
+                    "height": 112.5,
+                    "left": 86.5,
+                    "top": 283,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/741eb148-3072-4e67-9e26-74d05dad3179-0689"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 2.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片12",
+                "visible": true
+            },
+            {
+                "tid": 1468243923314,
+                "style": {
+                    "position": "absolute",
+                    "width": 185,
+                    "height": 189,
+                    "left": 67.5,
+                    "top": 252,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://file2.rabbitpre.com/8da4e9bf-857a-4203-ab25-53e5c0730fe3-5786"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 3.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片13"
+            },
+            {
+                "tid": 1468243923319,
+                "style": {
+                    "position": "absolute",
+                    "width": 45.5,
+                    "height": 45.5,
+                    "left": 10.5,
+                    "top": 348.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/630c9d01-713e-4479-8abb-86e807b79f3b-5933"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片18"
+            },
+            {
+                "tid": 1468243923320,
+                "style": {
+                    "position": "absolute",
+                    "width": 29.5,
+                    "height": 29.5,
+                    "left": 237.5,
+                    "top": 253,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/f3b08d4e-ffaa-4c90-829a-391fc8df353d-0645"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片19"
+            },
+            {
+                "tid": 1468243923321,
+                "style": {
+                    "position": "absolute",
+                    "width": 31,
+                    "height": 32,
+                    "left": 271,
+                    "top": 378.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/be3fd0ac-9e9a-499c-9d12-ff2ac33ff26a-8090"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片20"
+            },
+            {
+                "tid": 1468243923322,
+                "style": {
+                    "position": "absolute",
+                    "width": 37.5,
+                    "height": 37.5,
+                    "left": 201.5,
+                    "top": 407,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)"
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/439546d6-5cad-47a6-948a-ff4bbfd2cf9c-5482"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片21"
+            },
+            {
+                "tid": 1468244150436,
+                "style": {
+                    "width": 121,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 103,
+                    "top": 13.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"color: rgb(255, 255, 255); fontSize: 26px; fontFamily: 方正毡笔黑简体;\">奶油草莓</div>",
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 1
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字26"
+            },
+            {
+                "tid": 1468244697155,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 10.5,
+                    "top": 282,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(0, 0, 0); fontSize: 12px;\">抗氧化剂</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 3.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字27"
+            },
+            {
+                "tid": 1468244787171,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 248,
+                    "top": 307,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(0, 0, 0); fontSize: 12px;\">核黄素</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5.6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字28"
+            },
+            {
+                "tid": 1468244799028,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 117.5,
+                    "top": 403.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(0, 0, 0); fontSize: 12px;\">柠檬酸</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字29"
+            },
+            {
+                "tid": 1468244810194,
+                "style": {
+                    "width": 69,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 17.5,
+                    "top": 419.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(0, 0, 0); fontSize: 12px;\">β-胡萝卜素</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字30"
+            },
+            {
+                "tid": 1468244838724,
+                "style": {
+                    "width": 48,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 10,
+                    "top": 359.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(255, 255, 255); fontSize: 12px;\">美容</div><div style=\"fontFamily: 微软雅黑; color: rgb(255, 255, 255); fontSize: 12px;\">养颜</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字31"
+            },
+            {
+                "tid": 1468244916746,
+                "style": {
+                    "width": 48,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 228.5,
+                    "top": 261.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(255, 255, 255); fontSize: 12px;\">多汁</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字32"
+            },
+            {
+                "tid": 1468244972404,
+                "style": {
+                    "width": 48,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 262,
+                    "top": 388,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(255, 255, 255); fontSize: 12px;\">饱满</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字33"
+            },
+            {
+                "tid": 1468244995834,
+                "style": {
+                    "width": 48,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 196.5,
+                    "top": 420.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"fontFamily: 微软雅黑; color: rgb(255, 255, 255); fontSize: 12px;\">清甜</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字34"
+            },
+            {
+                "tid": 1468245225430,
+                "style": {
+                    "width": 180,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 70,
+                    "top": 456,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "center"
+                },
+                "text": "<div style=\"color: rgb(255, 255, 255); fontSize: 12px;\">你对草莓知多少？</div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字35"
+            },
+            {
+                "tid": 1468245256552,
+                "style": {
+                    "width": 308,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 9,
+                    "top": 470,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"fontSize: 12px; color: rgb(255, 255, 255);\">&nbsp; &nbsp; 草莓富含维生素、矿物质、果糖、柠檬酸等。这些营养素对儿童的生长发育有很好的促进作用，对老年人的健康亦很有益。</div>",
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字36"
+            }
+        ],
+        "createtime": "2016-07-23T04:34:44.000Z",
+        "updatetime": "2016-07-23T04:34:44.000Z"
+    },
+    {
+        "id": "9a0f3bce-1a51-459f-acb4-f4aa3164e1a1",
+        "appid": "6ffe71fd-d40c-457f-860a-9f05410a3c52",
+        "bgcolor": "#FFFFFF",
+        "bgimage": null,
+        "cmps": [
+            {
+                "tid": 1468245647555,
+                "style": {
+                    "position": "absolute",
+                    "width": 336,
+                    "height": 140,
+                    "left": -10.5,
+                    "top": -16,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/509ac6f3-b613-4ff2-8cb0-1eb7ff16287e-3567"
+                },
+                "animation": [
+                    {
+                        "name": "bounceInUp",
+                        "active": true,
+                        "delay": 0.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片02",
+                "visible": true
+            },
+            {
+                "tid": 1468245647556,
+                "style": {
+                    "position": "absolute",
+                    "width": 322.5,
+                    "height": 133.5,
+                    "left": -1.5,
+                    "top": -16.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file3.rabbitpre.com/bfc85372-123b-4d83-91df-73978bc9875d-6551"
+                },
+                "animation": [
+                    {
+                        "name": "bounceInUp",
+                        "active": true,
+                        "delay": 0.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片03",
+                "visible": true
+            },
+            {
+                "tid": 1468245647557,
+                "style": {
+                    "position": "absolute",
+                    "width": 95,
+                    "height": 24.5,
+                    "left": 112,
+                    "top": 29,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file2.rabbitpre.com/c64a45dc-e053-435d-b4ac-f4c5641fa807-9437"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 1.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片04",
+                "visible": true
+            },
+            {
+                "tid": 1468245647558,
+                "style": {
+                    "position": "absolute",
+                    "width": 139.5,
+                    "height": 27,
+                    "left": 160.5,
+                    "top": 122.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file3.rabbitpre.com/2483b137-6041-4e4b-8036-d01f06417e0e-7742"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 1.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片05"
+            },
+            {
+                "tid": 1468245647559,
+                "style": {
+                    "position": "absolute",
+                    "width": 57.5,
+                    "height": 10.5,
+                    "left": 201.5,
+                    "top": 131.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/a4dbecb5-8ddc-43b1-a19d-1770248732e3-1160"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片06"
+            },
+            {
+                "tid": 1468245647560,
+                "style": {
+                    "position": "absolute",
+                    "width": 132,
+                    "height": 126.5,
+                    "left": 94,
+                    "top": 173.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file2.rabbitpre.com/df2b1570-6302-44e3-a9ef-4abade258170-3132"
+                },
+                "animation": [
+                    {
+                        "name": "translate",
+                        "active": true,
+                        "delay": 3
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片07"
+            },
+            {
+                "tid": 1468245647561,
+                "style": {
+                    "position": "absolute",
+                    "width": 111.5,
+                    "height": 112,
+                    "left": 104.5,
+                    "top": 180.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/99a66b57-091f-4c83-86cc-4461b8aeb60c-7018"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片08"
+            },
+            {
+                "tid": 1468245647562,
+                "style": {
+                    "position": "absolute",
+                    "width": 102,
+                    "height": 102,
+                    "left": 109,
+                    "top": 186,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/21c7ff8f-d9e8-46d8-95c1-fd120257302e-6249"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 2.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片09"
+            },
+            {
+                "tid": 1468245647563,
+                "style": {
+                    "position": "absolute",
+                    "width": 92,
+                    "height": 17,
+                    "left": 23,
+                    "top": 190,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file1.rabbitpre.com/f4826633-3241-4b5d-ac1f-40cc07b66a84-2238"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3.2
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片10"
+            },
+            {
+                "tid": 1468245647564,
+                "style": {
+                    "position": "absolute",
+                    "width": 89,
+                    "height": 20.5,
+                    "left": 23,
+                    "top": 263.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/974d30f4-78dd-49b2-b14a-7dc3ed167df9-3151"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片11"
+            },
+            {
+                "tid": 1468245647565,
+                "style": {
+                    "position": "absolute",
+                    "width": 94,
+                    "height": 2,
+                    "left": 205,
+                    "top": 264.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/0865c054-46a6-44ae-9a27-3017c1f3f14f-3478"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片12"
+            },
+            {
+                "tid": 1468245647566,
+                "style": {
+                    "position": "absolute",
+                    "width": 94.5,
+                    "height": 17,
+                    "left": 204,
+                    "top": 186.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/7a689084-bc43-493b-b19e-08ac288bad0f-2014"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 3.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片13"
+            },
+            {
+                "tid": 1468245647567,
+                "style": {
+                    "position": "absolute",
+                    "width": 139.5,
+                    "height": 15,
+                    "left": 159,
+                    "top": 292,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://file3.rabbitpre.com/4dd11d52-8edd-42bf-b591-4eab8313a18d-4454"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片14"
+            },
+            {
+                "tid": 1468245647573,
+                "style": {
+                    "position": "absolute",
+                    "width": 279.5,
+                    "height": 172.5,
+                    "left": 23.5,
+                    "top": 334.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn3.rabbitpre.com/87b5f35f-2d0d-4324-a7d5-316b08fdfaec-8673"
+                },
+                "animation": [
+                    {
+                        "name": "fadeInUp",
+                        "active": true,
+                        "delay": 6.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片20"
+            },
+            {
+                "tid": 1468245647576,
+                "style": {
+                    "position": "absolute",
+                    "width": 5.5,
+                    "height": 5.5,
+                    "left": 85,
+                    "top": 379,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/67ca0782-1589-472b-8a7b-caf3f92ac8b7-4520"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 7
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片23"
+            },
+            {
+                "tid": 1468245647577,
+                "style": {
+                    "position": "absolute",
+                    "width": 5.5,
+                    "height": 5.5,
+                    "left": 152.5,
+                    "top": 379,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn2.rabbitpre.com/e9af9071-acc3-4ed1-a148-8f1daae2f387-8115"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 7.4
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片24"
+            },
+            {
+                "tid": 1468245647578,
+                "style": {
+                    "position": "absolute",
+                    "width": 139.5,
+                    "height": 27,
+                    "left": 23,
+                    "top": 332.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://wscdn.rabbitpre.com/6015347b-6478-48db-936d-42c29a4c6b5a-7820"
+                },
+                "animation": [
+                    {
+                        "name": "zoomIn",
+                        "active": true,
+                        "delay": 5.6
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片25"
+            },
+            {
+                "tid": 1468245647579,
+                "style": {
+                    "position": "absolute",
+                    "width": 57.5,
+                    "height": 10.5,
+                    "left": 64,
+                    "top": 341.5,
+                    "borderRadius": 0,
+                    "borderWidth": 0,
+                    "borderStyle": "solid",
+                    "rotate": 0,
+                    "opacity": 1,
+                    "transform": "rotate(0deg)",
+                    "border-color": ""
+                },
+                "file": {
+                    "key": "http://cdn4.rabbitpre.com/728ec089-5119-4547-9f3a-de7f3eaf66bb-0045"
+                },
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "active": true,
+                        "delay": 5.8
+                    }
+                ],
+                "cmpType": "image",
+                "name": "图片26"
+            },
+            {
+                "tid": 1468246316266,
+                "style": {
+                    "width": 99,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 23,
+                    "top": 173.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">糖、盐类和酶</div>",
+                "animation": [
+                    {
+                        "name": "fadeInRight",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字27"
+            },
+            {
+                "tid": 1468246341752,
+                "style": {
+                    "width": 99,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 199.5,
+                    "top": 170.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "right"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">钙、磷、钾</div>",
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.4
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字28"
+            },
+            {
+                "tid": 1468246371545,
+                "style": {
+                    "width": 67,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 23,
+                    "top": 268.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">蛋白质</div>",
+                "animation": [
+                    {
+                        "name": "fadeInRight",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字29"
+            },
+            {
+                "tid": 1468246388530,
+                "style": {
+                    "width": 99,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 198.5,
+                    "top": 253,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "right"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">膳食纤维</div>",
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 4.8
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字30"
+            },
+            {
+                "tid": 1468246408536,
+                "style": {
+                    "width": 147,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 159,
+                    "top": 292.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)",
+                    "textAlign": "right"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">维生素A、B、C、E等</div>",
+                "animation": [
+                    {
+                        "name": "fadeInLeft",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 5
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字31"
+            },
+            {
+                "tid": 1468246459502,
+                "style": {
+                    "width": 55,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 95,
+                    "top": 376.5,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">果肉细腻</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.2
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字32"
+            },
+            {
+                "tid": 1468246488254,
+                "style": {
+                    "width": 55,
+                    "fontSize": 18,
+                    "lineHeight": 1,
+                    "fontFamily": "黑体",
+                    "color": "#666666",
+                    "position": "absolute",
+                    "left": 162,
+                    "top": 376,
+                    "rotate": 0,
+                    "overflow": "hidden",
+                    "height": "auto",
+                    "transform": "rotate(0deg)"
+                },
+                "text": "<div style=\"color: rgb(0, 0, 0); fontSize: 12px; fontFamily: 微软雅黑;\">香甜可口</div>",
+                "animation": [
+                    {
+                        "name": "bounceIn",
+                        "duration": 1,
+                        "active": true,
+                        "delay": 7.6
+                    }
+                ],
+                "cmpType": "text",
+                "name": "文字33"
+            }
+        ],
+        "createtime": "2016-07-23T04:34:44.000Z",
+        "updatetime": "2016-07-23T04:34:44.000Z"
+    }
+]

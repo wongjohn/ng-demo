@@ -1,0 +1,15 @@
+<div class="control-panel animation-panel">
+    <div class="animation-btn">
+        <a class="btn btn-animation btn-add-animation" ng-click="vm.addAnimation()">添加动画</a>
+        <a class="btn btn-animation btn-play-animation" ng-click="vm.playAnimation()">播放动画</a>
+    </div>
+    <uib-accordion close-others="true">
+        <div uib-accordion-group ng-init="status.isOpen = $first" is-open="status.isOpen" ng-repeat="animation in vm.animations">
+            <uib-accordion-heading>
+                <span class="name">动画 {{$index + 1}} ({{animation.name | animationName}})</span>
+                <span class="animation-operation" ng-click="vm.deleteAnimation(animation, $event)"><i class="fa fa-trash-o"></i></span>
+            </uib-accordion-heading>
+            <animation-editor></animation-editor>
+        </div>
+    </uib-accordion>
+</div>

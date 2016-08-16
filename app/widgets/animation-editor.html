@@ -1,0 +1,38 @@
+<uib-tabset type="pills">
+    <uib-tab>
+        <uib-tab-heading>入场类</uib-tab-heading>
+        <div class="animation-panel">
+            <div ng-repeat="animate in vm.enterAnimation" data-animate="{{animate.animate}}" data-desc="{{animate.name}}"
+                 ng-class="{'active': animate.animate == animation.name}"
+                 class="animate-box" ng-click="applyAnimation(animate.animate)">
+                <div class="animate-pic icon"><i class="icon48 {{animate.klass}}"></i></div>
+                <p class="animate-name">{{animate.name}}</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </uib-tab>
+    <uib-tab>
+        <uib-tab-heading>强调类</uib-tab-heading>
+        <div class="animation-panel">
+            <div ng-repeat="animate in vm.emhpasisAnimation" data-animate="{{animate.animate}}" data-desc="{{animate.name}}"
+                 ng-class="{'active': animate.animate == animation.name}"
+                 class="animate-box" ng-click="applyAnimation(animate.animate)">
+                <div class="animate-pic icon"><i class="icon48 {{animate.klass}}"></i></div>
+                <p class="animate-name">{{animate.name}}</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </uib-tab>
+    <uib-tab>
+        <uib-tab-heading>退出类</uib-tab-heading>
+        <div class="animation-panel">
+            <div ng-repeat="animate in vm.exitAnimation" data-animate="{{animate.animate}}" data-desc="{{animate.name}}"
+                 ng-class="{'active': animate.animate == animation.name}"
+                 class="animate-box" ng-click="applyAnimation(animate.animate)">
+                <div class="animate-pic icon"><i class="icon48 {{animate.klass}}"></i></div>
+                <p class="animate-name">{{animate.name}}</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </uib-tab>
+</uib-tabset>

@@ -1,0 +1,14 @@
+<div class="trailer"
+     ng-style="component.style | trailer"
+     ng-class="{'selected': entity.isSelected, 'disable-mask': entity.disableMask}"
+     ng-click="selectThisComponent($event)"
+     ng-dblclick="editThisComponent($event)"
+     component-resize
+     component-entity
+     component-animation>
+    <div class="surface" component-surface></div>
+
+    <div class="component-mask" component-drag></div>
+    <div class="bar bar-rotate bar-radius" component-rotate></div>
+    <div class="bar bar-line"></div>
+</div>

@@ -1,0 +1,16 @@
+<div class="edit-page-list">
+    <ul ng-sortable="{ animation: 250 }" class="page-list">
+        <li class="page-list-item"
+            ng-repeat="page in vm.pages"
+            ng-class="{'selected': vm.isCurrentPageSelected(page) }"
+            ng-click="vm.switchToPage(page)">
+            <div class="page-operation">
+                <div class="btn btn-page-list btn-page-num">{{$index + 1}}</div>
+                <a uib-tooltip="复制本页" tooltip-placement="right" ng-click="vm.copy(page)" class="btn btn-page-list"><i class="fa fa-copy"></i></a>
+                <a uib-tooltip="新增一页" tooltip-placement="right" ng-click="vm.new(page)" class="btn btn-page-list"><i class="fa fa-plus"></i></a>
+                <a uib-tooltip="删除本页" tooltip-placement="right" ng-click="vm.remove(page)" class="btn btn-page-list"><i class="fa fa-times"></i></a>
+            </div>
+            <page-thumbnail data="page"></page-thumbnail>
+        </li>
+    </ul>
+</div>

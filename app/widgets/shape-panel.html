@@ -1,0 +1,38 @@
+<div class="control-panel property-panel image-panel">
+    <uib-accordion close-others="false">
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>形状</uib-accordion-heading>
+            <div>
+
+            </div>
+        </div>
+
+        <div uib-accordion-group is-open="true">
+            <uib-accordion-heading>外观</uib-accordion-heading>
+            <div>
+                <div>
+                    x
+                    <input type="number" ng-model="vm.selectedShapeComponent.style.top"/>
+                </div>
+                <div>
+                    y
+                    <input type="number" ng-model="vm.selectedShapeComponent.style.left"/>
+                </div>
+                <div>
+                    宽
+                    <input type="number" ng-model="vm.selectedShapeComponent.style.width"/>
+                </div>
+                <div>
+                    高
+                    <input type="number" ng-model="vm.selectedShapeComponent.style.height"/>
+                </div>
+                <div>
+                    旋转
+                    <input type="number" ng-model="vm.selectedShapeComponent.style.rotate"/>
+                </div>
+
+            </div>
+        </div>
+
+    </uib-accordion>
+</div>
