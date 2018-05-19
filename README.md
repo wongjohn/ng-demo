@@ -1,3 +1,7 @@
+# Screen Shot
+
+![Screen Shot](/editor-screenshot.png)
+
 # ng-demo
 
 **Generated from HotTowel Angular**
